@@ -1,0 +1,41 @@
+body
+{
+    background-image: url("backgroundimage.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    font-family:  monospace;
+    color: white;
+    padding: 20px;
+
+}
+.profleimage
+{
+    border-radius: 50%;
+    float: right;
+    width: 55%;
+    height: 50%;
+    margin-top: 20px;
+}
+.headers
+{
+        margin-top: 80px;
+        font-weight: bold;
+}
+.links
+{
+    color: white;
+    font-size: large;
+    padding: 30px;
+}
+.experienceprofile
+{
+        padding: 20px;
+}
+.row
+{
+    color: white;
+    font-size: large;
+}
+a{
+    color: white;
+}
